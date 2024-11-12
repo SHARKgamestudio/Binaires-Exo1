@@ -11,6 +11,7 @@ void Binary(int a, int b) {
     cout << "XOR : " << (a ^ b) << endl;
 
     cout << "NOT (A) : " << (~a) << endl;
+    cout << "NOT (B) : " << (~b) << endl;
 }
 
 void Exercice1() {
