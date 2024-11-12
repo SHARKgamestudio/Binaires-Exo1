@@ -127,7 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Exo1.cpp" />
+    <ClCompile Include="Exo2.cpp" />
+    <ClCompile Include="Exo3.cpp" />
     <ClCompile Include="ExoCPP.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exo1.h" />
+    <ClInclude Include="Exo2.h" />
+    <ClInclude Include="Exo3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

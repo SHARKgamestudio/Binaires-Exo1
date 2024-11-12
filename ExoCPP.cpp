@@ -1,5 +1,5 @@
-#include <iostream>
+#include "Exo3.h"
 
 int main() {
-    std::cout << "Hello World!\n";
+    Exercice3();
 }
